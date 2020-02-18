@@ -1,0 +1,5 @@
+name: 'MSP430 Builder'
+description: 'Build MSP430 source code'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
