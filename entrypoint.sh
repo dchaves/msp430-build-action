@@ -1,3 +1,3 @@
 #!/bin/sh -l
-cd /github/home
+cd /github/workspace
 make clean && make
